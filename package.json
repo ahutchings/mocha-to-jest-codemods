@@ -2,7 +2,8 @@
   "name": "mocha-to-jest-codemods",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "repository": "ahutchings/mocha-to-jest-codemods",
+  "main": "src/MochaToJestTransform.js",
   "scripts": {
     "test": "npm run test:lint && npm run test:unit",
     "test:lint": "standard",
