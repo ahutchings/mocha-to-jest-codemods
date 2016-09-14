@@ -9,7 +9,7 @@
 
 ## Usage
 
-```
+```sh
 npm install -g jscodeshift
 git clone https://github.com/ahutchings/mocha-to-jest-codemods.git
 jscodeshift -t mocha-to-jest-codemods/src/MochaToJestTransform.js <file>
