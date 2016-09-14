@@ -6,7 +6,7 @@
   "scripts": {
     "test": "npm run test:lint && npm run test:unit",
     "test:lint": "standard",
-    "test:unit": "jest"
+    "test:unit": "jest --coverage"
   },
   "author": "Andrew Hutchings <andrew.hutchings@gmail.com> (https://andrewhutchings.com)",
   "license": "ISC",
