@@ -1,0 +1,22 @@
+{
+  "name": "mocha-to-jest-codemods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Andrew Hutchings <andrew.hutchings@gmail.com> (https://andrewhutchings.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.14.0",
+    "babel-preset-es2015": "^6.14.0",
+    "jest": "^15.1.1"
+  },
+  "jest": {
+    "testRegex": ".*-test\\.js"
+  },
+  "dependencies": {
+    "jscodeshift": "^0.3.28"
+  }
+}
