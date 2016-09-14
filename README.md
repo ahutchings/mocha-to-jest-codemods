@@ -5,9 +5,12 @@
 [![Dependency Status](https://david-dm.org/ahutchings/mocha-to-jest-codemods.svg)](https://david-dm.org/ahutchings/mocha-to-jest-codemods)
 [![devDependency Status](https://david-dm.org/ahutchings/mocha-to-jest-codemods/dev-status.svg)](https://david-dm.org/ahutchings/mocha-to-jest-codemods#info=devDependencies)
 
+**🚨  This is a work in progress. Use with caution!**
+
 ## Usage
 
 ```
 npm install -g jscodeshift
 git clone https://github.com/ahutchings/mocha-to-jest-codemods.git
+jscodeshift -t mocha-to-jest-codemods/src/MochaToJestTransform.js <file>
 ```
