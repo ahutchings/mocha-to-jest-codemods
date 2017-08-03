@@ -1,5 +1,7 @@
 # mocha-to-jest-codemods
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahutchings/mocha-to-jest-codemods.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/ahutchings/mocha-to-jest-codemods.svg?branch=master)](https://travis-ci.org/ahutchings/mocha-to-jest-codemods)
 [![Coverage Status](https://coveralls.io/repos/github/ahutchings/mocha-to-jest-codemods/badge.svg)](https://coveralls.io/github/ahutchings/mocha-to-jest-codemods)
 [![Dependency Status](https://david-dm.org/ahutchings/mocha-to-jest-codemods.svg)](https://david-dm.org/ahutchings/mocha-to-jest-codemods)
