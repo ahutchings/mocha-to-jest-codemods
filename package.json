@@ -12,9 +12,9 @@
   "author": "Andrew Hutchings <andrew.hutchings@gmail.com> (https://andrewhutchings.com)",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^15.1.1",
+    "jest": "^20.0.4",
     "jscodeshift": "^0.3.28",
-    "standard": "^8.0.0"
+    "standard": "^10.0.2"
   },
   "jest": {
     "testRegex": ".*-test\\.js"
